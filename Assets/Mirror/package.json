@@ -1,0 +1,14 @@
+{
+  "name": "com.metatope.mirror",
+  "version": "96.11.0",
+  "displayName": "Mirror Networking - Metatope UPM",
+  "description": "UPM-packaged distribution of Mirror Networking v96.11.0 for Metatope Unity projects.",
+  "unity": "6000.0",
+  "documentationUrl": "https://mirror-networking.gitbook.io/docs/",
+  "changelogUrl": "https://github.com/MirrorNetworking/Mirror/releases/tag/v96.11.0",
+  "licensesUrl": "https://github.com/MirrorNetworking/Mirror/blob/v96.11.0/LICENSE",
+  "author": {
+    "name": "Mirror Networking Contributors",
+    "url": "https://github.com/MirrorNetworking/Mirror"
+  }
+}
